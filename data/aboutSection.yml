@@ -1,7 +1,8 @@
 ---
 enable: true
 topTitle: About
-title: "## About me"
+title: "## About meEnjoy team diversity and increase their networks among others people
+  in various fields by provided."
 content: |
   ### I design and build things.
   I love to work in User Experience & User Interface designing. Because I love to solve the design problem and find easy and better solutions to solve it. I always try my best to make good user interface with the best user experience. I have been working as a Visual designer from.
@@ -10,6 +11,5 @@ button2Name: Download CV
 button1Target: contact
 button2Target: contact
 image: images/about/about-img.jpg
-subtitle: Enjoy team diversity and increase their networks among others people in
-  various fields by provided.
+subtitle: ''
 title2: ''
